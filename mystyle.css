@@ -1,0 +1,56 @@
+.judul{
+  text-align: center[];
+}
+body{
+    background-color: rgb(248, 188, 233);
+}
+.isi{
+    width: 335px;
+    background-color: rgb(116, 31, 86);
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px rgb(190, 94, 131);
+    
+}
+.input{
+    width: 300px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18pt;
+}
+
+.operasi{
+    font-size: 18pt;
+    border: none;
+    width: 323px;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.hitung{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18pt;
+    border-bottom: 4px slateblue;
+    margin-left: 5px;
+    width: 323px;
+    
+
+}
+.hasil{
+    background: #eee;
+    height: 70px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 11pt;
+    margin: 5px;
+}
+
+
